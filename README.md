@@ -1,6 +1,6 @@
 # Ticketmaster
 
-W niniejszym dokumencie przedstawiono scenariusz testowy do wykonania manualnych testów funkcjonalnych aplikacji webowej Ticketmaster (https://www.ticketmaster.pl) w zakresie:
+W niniejszym repozytorium przedstawiono scenariusz testowy do wykonania manualnych testów funkcjonalnych aplikacji webowej Ticketmaster (https://www.ticketmaster.pl) w zakresie:
 
 • rejestracji konta użytkownika,
 
